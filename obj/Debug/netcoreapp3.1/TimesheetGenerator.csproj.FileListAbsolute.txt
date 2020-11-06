@@ -1,0 +1,13 @@
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\bin\Debug\netcoreapp3.1\TimesheetGenerator.exe
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\bin\Debug\netcoreapp3.1\TimesheetGenerator.deps.json
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\bin\Debug\netcoreapp3.1\TimesheetGenerator.runtimeconfig.json
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\bin\Debug\netcoreapp3.1\TimesheetGenerator.runtimeconfig.dev.json
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\bin\Debug\netcoreapp3.1\TimesheetGenerator.dll
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\bin\Debug\netcoreapp3.1\TimesheetGenerator.pdb
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\obj\Debug\netcoreapp3.1\TimesheetGenerator.csprojAssemblyReference.cache
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\obj\Debug\netcoreapp3.1\TimesheetGenerator.AssemblyInfoInputs.cache
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\obj\Debug\netcoreapp3.1\TimesheetGenerator.AssemblyInfo.cs
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\obj\Debug\netcoreapp3.1\TimesheetGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\obj\Debug\netcoreapp3.1\TimesheetGenerator.dll
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\obj\Debug\netcoreapp3.1\TimesheetGenerator.pdb
+C:\Users\Samuel Obembe\PROJECTS\TimesheetGenerator\obj\Debug\netcoreapp3.1\TimesheetGenerator.genruntimeconfig.cache
