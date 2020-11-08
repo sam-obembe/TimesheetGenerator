@@ -32,9 +32,9 @@ namespace TimesheetGenerator
                     string timeStamps = "Log on - \nLunch - \nLog off - \n\n";
                     string separator = "------------------------------------";
 
-                    WriteToFile(sw, date);
-                    WriteToFile(sw, timeStamps);
-                    WriteToFile(sw, separator);
+                    string combined = date+"\n"+timeStamps+separator;
+                    
+                    WriteToFile(sw,combined);
 
                     startingDate = startingDate.AddDays(1);
                 }
